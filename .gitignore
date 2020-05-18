@@ -1,4 +1,5 @@
 .idea/
+coverage/
 .vscode/
 node_modules/
 build/
